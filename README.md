@@ -1,16 +1,13 @@
-### Hi there 👋
+### biografia 👋
 
-<!--
-**gabasss32/gabasss32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🙅‍♂️ Meu nome e Gabriel
+- 🎮 gosto de jogar
+- 🐕 tenho um cachorro 
+- 🍝 gosto bastante de macarrão 
+- 🏐 gosto de volei
+- 👨‍🌾 moro no sitio
+- Ajudo meus pais em casa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/GmU85epf9D4AAAAC/pepe-nervous.gif)
+
